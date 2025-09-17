@@ -4,7 +4,7 @@ This repository contains a static, phone-sized HTML/CSS prototype of the Path@Pe
 It shows the design from my high-fidelity prototype for my UI design assignment.
 
 ## How to Run It
-1. Download this repository as a ZIP or clone it.
+1. Download this repository as a ZIP file.
 2. Open the `index.html` file in any modern web browser.
 
 ## Acknowledgements
